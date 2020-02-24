@@ -1,0 +1,69 @@
+.container{
+    margin-bottom: 100px;
+}
+.bg-color{
+    background-color: #fff;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 20px;
+}
+.buy-now-button{
+    background-image: linear-gradient(315deg, #000000 0%, #414141 74%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.carousel-indicators li{
+    background-color: orange;
+    width: 30px;
+    height: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.all{
+    color: orange;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    text-align: center;
+}
+.catagory{
+    width: 70px;
+    border: 4px solid orange;
+    border-radius: 5px;
+}
+.bag{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray; 
+}
+.beauty{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray; 
+}
+.shoe{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#Contact-us{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px lightgray;
+}
+#Contact-us h6{
+    color: gray;
+}
+.footer{
+    text-align: center;
+}
